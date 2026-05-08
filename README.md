@@ -560,9 +560,9 @@ Special thanks to:
 
 Ankur Macwan
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* Email: [your@email.com](mailto:your@email.com)
+* GitHub: [https://github.com/ankur3-101106](https://github.com/ankur3-101106)
+* LinkedIn: [https://linkedin.com/in/ankur101106](https://linkedin.com/in/ankur101106)
+* Email: [ankurdcs101106@gmail.com](mailto:ankurdcs101106@gmail.com)
 
 
 
@@ -574,19 +574,3 @@ If you like this project:
 🍴 Fork the project
 🛠️ Contribute improvements
 
-
-
-# Final Notes
-
-A strong hackathon README should:
-
-* Explain the problem clearly
-* Show technical depth
-* Be easy to run locally
-* Include screenshots
-* Include deployment steps
-* Highlight innovation
-* Look visually clean
-* Help judges understand quickly
-
-A professional README can significantly improve hackathon presentation quality and project credibility.
