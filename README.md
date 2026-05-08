@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 # Table of Contents
 
@@ -36,7 +36,7 @@
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 
----
+
 
 # About The Project
 
@@ -48,7 +48,7 @@ Example:
 
 > Many students struggle to learn cybersecurity practically due to lack of interactive labs and beginner-friendly guidance.
 
----
+
 
 ## Solution
 
@@ -58,7 +58,7 @@ Example:
 
 > This platform provides interactive cybersecurity labs, guided tutorials, and real-time simulations for students and beginners.
 
----
+
 
 ## Why This Project Matters
 
@@ -68,7 +68,7 @@ Example:
 * Fast and responsive
 * Useful for learning and productivity
 
----
+
 
 # Features
 
@@ -83,7 +83,7 @@ Example:
 * Deployment ready
 * Mobile-friendly
 
----
+
 
 # Tech Stack
 
@@ -123,7 +123,7 @@ Example:
 * Git
 * GitHub
 
----
+
 
 # Architecture
 
@@ -133,7 +133,7 @@ Client → Frontend → Backend API → Database
               External APIs / AI Models
 ```
 
----
+
 
 # Screenshots
 
@@ -149,7 +149,7 @@ Client → Frontend → Backend API → Database
 
 ![Mobile](./assets/mobile.png)
 
----
+
 
 # Demo Video
 
@@ -159,7 +159,7 @@ Add your demo video link:
 https://youtube.com/your-demo-video
 ```
 
----
+
 
 # Getting Started
 
@@ -180,7 +180,7 @@ npm -v
 git --version
 ```
 
----
+
 
 # Installation
 
@@ -191,7 +191,7 @@ git clone https://github.com/yourusername/project-name.git
 cd project-name
 ```
 
----
+
 
 ## Install Dependencies
 
@@ -209,7 +209,7 @@ cd backend
 npm install
 ```
 
----
+
 
 # Environment Variables
 
@@ -225,7 +225,7 @@ API_KEY=your_api_key
 NEXT_PUBLIC_API_URL=http://localhost:5000
 ```
 
----
+
 
 # Usage
 
@@ -236,7 +236,7 @@ cd frontend
 npm run dev
 ```
 
----
+
 
 ## Run Backend
 
@@ -245,7 +245,7 @@ cd backend
 npm run dev
 ```
 
----
+
 
 ## Open Browser
 
@@ -253,7 +253,7 @@ npm run dev
 http://localhost:3000
 ```
 
----
+
 
 # Deployment
 
@@ -267,7 +267,7 @@ http://localhost:3000
 4. Add environment variables
 5. Click Deploy
 
----
+
 
 ## Deploy on Netlify
 
@@ -283,7 +283,7 @@ Publish directory:
 dist
 ```
 
----
+
 
 # Backend Deployment
 
@@ -301,7 +301,7 @@ Build command:
 npm install
 ```
 
----
+
 
 ## Deploy Using Docker
 
@@ -317,7 +317,7 @@ docker build -t project-name .
 docker run -p 3000:3000 project-name
 ```
 
----
+
 
 # API Documentation
 
@@ -339,7 +339,7 @@ Request:
 }
 ```
 
----
+
 
 ### Login User
 
@@ -347,7 +347,7 @@ Request:
 POST /api/auth/login
 ```
 
----
+
 
 ## Example Response
 
@@ -358,7 +358,7 @@ POST /api/auth/login
 }
 ```
 
----
+
 
 # Project Structure
 
@@ -383,7 +383,7 @@ project-name/
 └── .env.example
 ```
 
----
+
 
 # Security Features
 
@@ -395,7 +395,7 @@ project-name/
 * Environment variable protection
 * HTTPS support
 
----
+
 
 # Performance Optimizations
 
@@ -406,7 +406,7 @@ project-name/
 * Optimized database queries
 * CDN deployment
 
----
+
 
 # Accessibility
 
@@ -416,7 +416,7 @@ project-name/
 * High contrast support
 * Responsive layout
 
----
+
 
 # Testing
 
@@ -426,7 +426,7 @@ project-name/
 npm test
 ```
 
----
+
 
 ## Run Linting
 
@@ -434,7 +434,7 @@ npm test
 npm run lint
 ```
 
----
+
 
 # CI/CD
 
@@ -467,7 +467,7 @@ jobs:
         run: npm run build
 ```
 
----
+
 
 # Challenges Faced
 
@@ -480,7 +480,7 @@ jobs:
 
 Explain how you solved them.
 
----
+
 
 # Future Improvements
 
@@ -492,7 +492,7 @@ Explain how you solved them.
 * Multi-language support
 * Better scalability
 
----
+
 
 # Roadmap
 
@@ -503,7 +503,7 @@ Explain how you solved them.
 * [ ] Kubernetes deployment
 * [ ] Native mobile app
 
----
+
 
 # Contributors
 
@@ -515,7 +515,7 @@ Explain how you solved them.
 * Member 2 — Backend Developer
 * Member 3 — UI/UX Designer
 
----
+
 
 # Hackathon Information
 
@@ -531,7 +531,7 @@ AI / Cybersecurity / Web3 / Sustainability
 
 24 Hours / 48 Hours
 
----
+
 
 # License
 
@@ -541,7 +541,7 @@ MIT License
 MIT License © 2026 Your Name
 ```
 
----
+
 
 # Acknowledgements
 
@@ -552,7 +552,7 @@ Special thanks to:
 * Hackathon organizers
 * Contributors
 
----
+
 
 # Contact
 
@@ -564,7 +564,7 @@ Ankur Macwan
 * LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 * Email: [your@email.com](mailto:your@email.com)
 
----
+
 
 # Support
 
@@ -574,7 +574,7 @@ If you like this project:
 🍴 Fork the project
 🛠️ Contribute improvements
 
----
+
 
 # Final Notes
 
