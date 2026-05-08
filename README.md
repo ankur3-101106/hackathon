@@ -109,8 +109,6 @@ Example:
 
 ## DevOps & Deployment
 
-* Docker
-* GitHub Actions
 * Vercel
 * Netlify
 * Cloudflare
@@ -170,7 +168,6 @@ Install:
 * Node.js >= 18
 * npm / pnpm / yarn
 * Git
-* Docker (optional)
 
 Check versions:
 
@@ -180,8 +177,6 @@ npm -v
 git --version
 ```
 
-
-
 # Installation
 
 ## Clone Repository
@@ -190,7 +185,6 @@ git --version
 git clone https://github.com/yourusername/project-name.git
 cd project-name
 ```
-
 
 
 ## Install Dependencies
